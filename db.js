@@ -2,9 +2,9 @@ export const videos = [
     {
         id: 324393,
         title: "Video awesome",
-        decription:"This is somting I love",
+        description:"This is somting I love",
         views: 24,
-        videoFile:"https://archive.org/details/BigBuckBunny_124",
+        videoFile:"https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id: 121212,
             name: "yeongil",
@@ -14,9 +14,9 @@ export const videos = [
     {
         id: 32553,
         title: "Video nice",
-        decription:"This is somting I love",
+        description:"This is somting I love",
         views: 24,
-        videoFile:"https://archive.org/details/BigBuckBunny_124",
+        videoFile:"https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id: 121212,
             name: "yeongil",
@@ -26,9 +26,9 @@ export const videos = [
     {
         id: 55555,
         title: "Video perfect",
-        decription:"This is somting I love",
+        description:"This is somting I love",
         views: 24,
-        videoFile:"https://archive.org/details/BigBuckBunny_124",
+        videoFile:"https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id: 121212,
             name: "yeongil",
@@ -38,9 +38,9 @@ export const videos = [
     {
         id: 555485,
         title: "Video good",
-        decription:"This is somting I love",
+        description:"This is somting I love",
         views: 24,
-        videoFile:"https://archive.org/details/BigBuckBunny_124",
+        videoFile:"https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id: 121212,
             name: "yeongil",
